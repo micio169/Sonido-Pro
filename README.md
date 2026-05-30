@@ -1,7 +1,7 @@
 # 🎙️ Sonido Pro
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Release-v1.0.0-00ffcc?style=for-the-badge&logo=github&logoColor=black" alt="Release">
+  <img src="https://img.shields.io/badge/Open_Beta-v1.0.0--beta-orange?style=for-the-badge&logo=github&logoColor=white" alt="Open Beta">
   <img src="https://img.shields.io/badge/Platform-Windows_.exe-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Architecture-Pure_WAV-ff3366?style=for-the-badge" alt="WAV Only">
   <img src="https://img.shields.io/badge/Developer-micio-orange?style=for-the-badge" alt="Developer">
